@@ -43,3 +43,14 @@ didn't test yet :
 Note : 
 if u want use HDMI on windows, u should reboot ur laptop twice.  
 
+Screenshot
+
+![Screenshot 2023-09-19 at 11 20 27](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/66102c62-b375-491c-a348-fdf180f6f304)
+![Screenshot 2023-09-19 at 11 15 14](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/bf1e0f48-6f6b-419f-8db9-24e34c005d27)
+![Screenshot 2023-09-19 at 11 16 11](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/1d754cd5-f03a-4e69-b57a-c4e3f38b436e)
+![Screenshot 2023-09-19 at 11 16 48](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/cc1e8f08-70ff-47eb-b3e3-e9e4a3ade2ca)
+![Screenshot 2023-09-19 at 11 17 25](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/3acaac1e-34bb-4b3f-951e-b31ba6b62c11)
+![Screenshot 2023-09-19 at 11 17 54](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/a098b1c1-ebd4-4ab3-874e-7b4bf8075946)
+![Screenshot 2023-09-19 at 11 18 09](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/1a0e437a-8a1c-43e6-80cb-226dbaad3564)
+![Screenshot 2023-09-19 at 11 18 42](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/2f5043e6-1742-4ae8-84a0-05d7b88d2045)
+![Screenshot 2023-09-19 at 11 18 50](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/77b281db-f43a-4b54-8522-01c3db6b8a8e)
