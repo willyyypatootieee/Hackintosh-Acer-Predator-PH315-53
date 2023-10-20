@@ -1,6 +1,6 @@
 # EFI-Hackintosh-Acer-Predator-PH315-53 ( MacOS Ventura )
-<h1 Highly Recommend you to build the EFI for your device on your own 
-and only use this for reference even though you have the same device as mine since, when something fails you will be on your own. </h1>
+<h1> Highly Recommend you to build the EFI for your device on your own 
+and only use this for reference even though you have the same device as mine since, when something fails you will be on your own.</h1>
 
 This EFI was used for Mac OS Ventura, didn't test yet on Monterey, Big Sur, or Mojova. should work with older mac os versions as well but may need few tweaks.
 
