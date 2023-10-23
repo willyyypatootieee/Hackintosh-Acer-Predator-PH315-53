@@ -14,7 +14,7 @@ Specification :
 - Adata SX6000NLP
 - Killer Wifi Ax1650i (201NGW)
 
-WConfirmed Work:
+Confirmed Work:
 * QE/CI of Intel® UHD Graphics 630
 * Internal Microphone, Internal Speaker and Headphone
 * Power Management
@@ -23,6 +23,7 @@ WConfirmed Work:
 * Battery Indicator
 * Restart, Sleep and Shutdown
 * Webcam
+* Type C port
 * Battery Limit to 80% with acer care center on windows
 * Brightness
 * Brightness Up and Down
