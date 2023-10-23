@@ -15,6 +15,7 @@ Specification :
 - Killer Wifi Ax1650i (201NGW)
 
 Confirmed Work:
+* Apple Services ( imesssage, facetime )
 * QE/CI of Intel® UHD Graphics 630
 * Internal Microphone, Internal Speaker and Headphone
 * Power Management
@@ -36,16 +37,21 @@ Not Working :
 - Nvidia RTX 2060 ( optimus didnt work on mac os )
 - hdmi ( connected through dedicated gpu )
 - microphone through cable audio jack
+- Samsung MZVLB512HBJQ-00007 ( didn't support )
+- apple exclusive feature like carside, airdrop.
 
 didn't test yet :
 - mini display port
 - ethernet port
 
   
-Note : 
-if u want use HDMI on windows, u should reboot ur laptop twice.  
+Bug :
+* if u want use HDMI on windows, u should reboot ur laptop twice.  
+* if the brightness slider on lowest, the screen gonna be black, to fix this u need to
+restart ur laptop
+* sometimes the webcam mic kinda noisy
 
-Screenshot
+# Screenshot
 
 ![Screenshot 2023-09-19 at 11 20 27](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/66102c62-b375-491c-a348-fdf180f6f304)
 ![Screenshot 2023-09-19 at 11 15 14](https://github.com/23illy/Hackintosh-Acer-Predator-PH315-53/assets/71692311/bf1e0f48-6f6b-419f-8db9-24e34c005d27)
