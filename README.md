@@ -1,4 +1,5 @@
-# EFI-Hackintosh-Acer-Predator-PH315-53 ( MacOS Ventura )
+# I'm not using Hackintosh anymore, so it will no longer be maintained.
+## EFI-Hackintosh-Acer-Predator-PH315-53 ( MacOS Ventura )
 <h1> Highly Recommend you to build the EFI for your device on your own 
 and only use this for reference even though you have the same device as mine since, when something fails you will be on your own.</h1>
 
